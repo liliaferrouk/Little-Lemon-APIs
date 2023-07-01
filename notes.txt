@@ -1,0 +1,22 @@
+users:
+    admin: admin = admin     76dba66311c5d0a1575d329cf18d4ccde962af4b
+    Manager:
+        lilia = azuul123     18264b9c5f1a7772f84c781f4894ce6ea0c5f462
+    Delivery-crew:
+        lina = azuul123      a88500ea2e1e8fe75d61d29e0623a8d2c561f418
+    Others:
+        ania = azuul123      8a6388cbcdc63ea5df46f00af005077824b0a49a
+        user1 = azuul123     1bc3700dad614862c7a6bc6128198e0ab9d9f021
+        user2 = azuul123     b4133e2c165a7ba42845002bf9123b1649507aa8
+        user3 = azuul123     d4bda5aaf1f9cbb214dd3f62c8d21f711078f67f
+
+
+category:
+    Main
+    Appetisers
+    Sides
+
+menu_item:
+    Grilled fish 5.6$
+    Bruschetta 16.95 $
+    Couscous 10 $
